@@ -1,0 +1,21 @@
+Comparison of all models:
+
+LinearRegression
+Mean: 5.056555468953396
+Standard deviation: 1.1027749912939326
+final_rmse: 4.152994812231168
+
+DecisionTreeRegressor
+Mean: 4.814567704182108
+Standard deviation: 1.001774348961317
+final_rmse: 3.9947637295467127
+
+RandomForestRegressor
+Mean: 3.442078586916204
+Standard deviation: 0.7349450328494137
+final_rmse: 3.0234653828956968
+
+
+
+
+
